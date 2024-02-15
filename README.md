@@ -16,7 +16,5 @@ This portfolio site serves as a showcase of my skills, experiences, and projects
 - HTML
 - Basic CSS
 
-## Screenshots
-Include screenshots or GIFs of your portfolio site to provide a visual representation.
 
 
