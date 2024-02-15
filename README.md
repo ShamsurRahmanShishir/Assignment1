@@ -19,7 +19,4 @@ This portfolio site serves as a showcase of my skills, experiences, and projects
 ## Screenshots
 Include screenshots or GIFs of your portfolio site to provide a visual representation.
 
-## Usage
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+
